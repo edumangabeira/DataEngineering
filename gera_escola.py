@@ -1,6 +1,7 @@
 import random as rd
 import pandas as pd
 import datetime
+import uuid
 
 
 def gera_nascimento():
@@ -41,7 +42,7 @@ def gera_alunos(nomes, sobrenomes, enderecos, quantidade_alunos=60):
     quantidade_alunos: número de alunos que serão criados.
     '''
 
-    df = pd.DataFrame(columns=["nome", "data_nascimento", "endereco", "cpf"], index=None)
+    df = pd.DataFrame(columns=["nome", "data_nascimento", "endereco", "cpf", "id_aluno", ], index=None)
 
     for i in range(0, quantidade_alunos):
 
@@ -68,8 +69,11 @@ def gera_alunos(nomes, sobrenomes, enderecos, quantidade_alunos=60):
         # cpf
         cpf = gera_cpf()
 
+        # id único
+        id_aluno = uuid.uuid4()
+
         # tabela
-        to_append = [nome, nascimento, endereco, cpf]
+        to_append = [nome, nascimento, endereco, cpf, id_aluno]
         a_series = pd.Series(to_append, index=df.columns)
         df = df.append(a_series, ignore_index=True)
     df.to_csv("escola.csv", index=False)
