@@ -16,3 +16,14 @@ query na mão.
 até entrar no sangue. Ainda preciso fazer mais exercícios nesse sentido, se possível com bases prontas. 
 
 - Construir a base do zero foi importante e acredito que tenha sido proveitoso, mas agora quero focar em fazer consultas mais elaboradas.
+
+
+### [atualização 02/10]
+
+
+O período letivo começou e acabei não tendo tempo para voltar a esse projeto, mas - pensando melhor - acabei percebendo que o restante do curso da udemy
+de introdução ao MySQL talvez não fosse tão interessante para mim, já que não é meu foco me tornar DBA.
+
+As aulas da disciplina de bases de dados estão cobrindo bem a parte que cabe a um cientista de dados. O professor está usando o SQLite, provavelmente por 
+ser bem mais leve(assim todos podem usar em casa). Se eu achar que vale a pena, vou registrar meu progresso nessas aulas, de repente publicando como
+eu projetei o banco de dados com um desenho do esquema.
