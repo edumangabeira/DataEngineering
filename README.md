@@ -39,4 +39,8 @@ Até agora as aulas da disciplina de bases de dados estão sendo sensacionais, o
 Comecei um nanodegree da Udacity em engenharia de dados por conta do desconto absurdo da black friday e o primeiro capítulo é sobre SQL. Até agora está sendo bem interessante. Curti muito um [texto](https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems) externo recomendado pela Udacity que explica as diferenças entre os três SGBD's relacionais mais usados hoje em dia: MySQL, SQLite e PostgreSQL.
 
 
+### [atualização 12/12]
+
+Eu ainda não tinha visto conceitos básicos do SQL, como joins e aggregations, então o nanodegree tomou um ritmo bem acelerado. Achei bem esquisita a quantidade de blocos try/except em um único script para conectar a um banco PostgreSQL, mesmo existindo uma explicação que faz sentido. Vou seguir sem prestar muita atenção a isso agora. Começarei a parte de NoSQL e espero finalmente entender como o MongoDB funciona de verdade, já deu para ver que os bancos NoSQL têm finalidades bem específicas, apesar de funcionarem bem em diversos contextos.
+
  
