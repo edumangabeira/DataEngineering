@@ -1,4 +1,4 @@
-# Introdução ao MySQL
+## Introdução ao MySQL
 
 Vou deixar esse espaço aqui para os scripts em python que eu escrever enquanto faço o cursinho de MySQL. 
 Devo usar alguns só pra praticar conceitos básicos tipo gerar nomes e números de CPF. Apesar de já poder usar bases prontas, deve ser divertido esse exercício,
@@ -17,6 +17,7 @@ até entrar no sangue. Ainda preciso fazer mais exercícios nesse sentido, se po
 
 - Construir a base do zero foi importante e acredito que tenha sido proveitoso, mas agora quero focar em fazer consultas mais elaboradas.
 
+# Bases de dados
 
 ### [atualização 02/10]
 
@@ -28,6 +29,8 @@ As aulas da disciplina de bases de dados estão cobrindo bem a parte que cabe a 
 ser bem mais leve(assim todos podem usar em casa). Se eu achar que vale a pena, vou registrar meu progresso nessas aulas, de repente publicando como
 eu projetei o banco de dados com um desenho do esquema.
 
+
+## Udacity nanodegree
 
 ### [atualização 04/12]
 
