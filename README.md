@@ -62,3 +62,10 @@ Minhas férias começaram e posso finalmente continuar o Nanodegree. O arquivo `
 1 - Último empurrão! A parte final do etl.ipynb me pegou, no entanto. Estou realmente lutando para entender exatamente como a instrução select deve ser escrita.
 
 2 - Finalmente, todas as tarefas estão concluídas e tudo parece estar funcionando bem. Inicialmente, não consegui executar etl.py, mas alterar as restrições das instruções de inserção acabou sendo uma solução bem direta.
+
+
+
+## [atualização 10/03/2021]
+
+Depois de uma revisão, o projeto de modelagem de dados com postgres foi aceito! Agora vou partir para o projeto com Apache Cassandra.
+
