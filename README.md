@@ -69,3 +69,12 @@ Minhas férias começaram e posso finalmente continuar o Nanodegree. O arquivo `
 
 Depois de uma revisão, o projeto de modelagem de dados com postgres foi aceito! Agora vou partir para o projeto com Apache Cassandra.
 
+
+## [atualização 15/03/2021]
+
+Esqueci de registrar antes, mas o projeto de modelagem de dados com Apache Cassandra foi finalizado e aceito :)
+
+Comecei o capítulo de Cloud Data Warehouses e a primeira parte das aulas(são três) foi bem simples, serviu mais para mostrar como OLAP e OLTP são diferentes na prática, ou seja, na hora de modelar um banco de dados relacional dado um propósito específico(uso interno, análises, etc). Por um instante achei besteira dar nomes tão específicos para consultas SQL triviais(slice/dice), mas no final do capítulo, principalmente na parte do operador ```cube```, fez mais sentido os nomes existirem.
+
+para a segunda parte do capítulo, enviei um ticket para a Udacity pedindo um cupom para usar os serviços da AWS e confesso que estou com certo receio de fazer besteira, espero não esquecer nenhuma instância ligada e acabar perdendo meus créditos.
+
