@@ -78,3 +78,10 @@ Comecei o capítulo de Cloud Data Warehouses e a primeira parte das aulas(são t
 
 para a segunda parte do capítulo, enviei um ticket para a Udacity pedindo um cupom para usar os serviços da AWS e confesso que estou com certo receio de fazer besteira, espero não esquecer nenhuma instância ligada e acabar perdendo meus créditos.
 
+## [atualização 27/03/2021]
+
+Configurei minha conta AWS por completo e recebi meu cupom depois de alguma espera. Nesse intervalo assisti algumas aulas dos próximos capítulos(Data Lakes com Spark e Data Pipelines com airflow) para não perder muito tempo. 
+
+Criei meu primeiro Cluster Redshift :)
+
+Até agora tem sido tranquilo de acompanhar, apesar de alguns detalhes de redes não serem muito familiares. Faltam alguns exercícios importantes antes de começar o projeto, mas já estou empolgado.
