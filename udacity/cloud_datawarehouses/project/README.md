@@ -98,8 +98,7 @@ To execute the ETL pipeline, you need first to launch a Redshift cluster and set
 python etl.py
 ```
 
-You will see the entire process being executed, and if something goes wrong an elucidative message will be displayed on screen. For a more detailed guide on the ETL pipeline, check ```etl.ipynb```.
-
+You will see the entire process being executed, and if something goes wrong an elucidative message will be displayed on screen.
 
 
 #### Warning
