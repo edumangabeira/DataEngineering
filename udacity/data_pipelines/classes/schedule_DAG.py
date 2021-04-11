@@ -4,6 +4,7 @@ import logging
 from airflow import DAG
 from airflow.operators.python_operator import PythonOperator
 
+# run in terminal: /opt/airflow/start.sh
 
 def hello_world():
     logging.info("Hello World")

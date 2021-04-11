@@ -1,7 +1,8 @@
 import logging
 from airflow import DAG
 from airflow.operators.python_operator import PythonOperator
-#  you need to run the airflow server first
+# you need to run the airflow server first
+# run in terminal: /opt/airflow/start.sh
 
 '''
 Define a function that uses the python logger to log a function.
