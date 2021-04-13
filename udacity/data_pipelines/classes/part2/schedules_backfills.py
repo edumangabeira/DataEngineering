@@ -33,8 +33,11 @@ def load_station_data_to_redshift(*args, **kwargs):
 
 
 dag = DAG(
-    'lesson2.exercise1',
-    start_date=datetime.datetime.now()
+    'lesson2.exercise2',
+    start_date=datetime.datetime(2018, 1, 1, 0, 0, 0, 0),
+    end_date=datetime.datetime(2018, 2, 1, 0, 0, 0, 0),
+    schedule_interval='@monthly',
+    max_active_runs=1
 )
 
 create_trips_table = PostgresOperator(
@@ -48,6 +51,7 @@ copy_trips_task = PythonOperator(
     task_id='load_trips_from_s3_to_redshift',
     dag=dag,
     python_callable=load_trip_data_to_redshift,
+    provide_context=True,
 )
 
 create_stations_table = PostgresOperator(
