@@ -85,3 +85,9 @@ Configurei minha conta AWS por completo e recebi meu cupom depois de alguma espe
 Criei meu primeiro Cluster Redshift :)
 
 Até agora tem sido tranquilo de acompanhar, apesar de alguns detalhes de redes não serem muito familiares. Faltam alguns exercícios importantes antes de começar o projeto, mas já estou empolgado.
+
+## [atualização 14/04/2021]
+
+Estudei o material da Udacity quase todos esses dias, apesar de não ter atualizado o documento. Terminei o projeto de Data Lakes com Spark e acredito ter entendido bem os conceitso, só achei que o capítulo como um todo não apresentou um objetivo muito claro. Até foi interessante ver mais sobre programação funcional, Spark e como esse framework pode ajudar com Big Data, porém o projeto não aproveitou quase nada de todo o conteúdo que poderia ter sido explorado. No final o que tinha para ser feito basicamente era extrair dados de um bucket S3, criar tabelas sem um esquema predefinido povoando com os dados extraídos e, por último, salvá-las em arquivos Parquet em outro bucket S3.
+
+Agora falta um capítulo da parte de Data Pipelines com Airflow, o projeto desse capítulo e o projeto final. Até o início de maio devo terminar, uhul!
