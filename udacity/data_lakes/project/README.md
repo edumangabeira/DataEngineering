@@ -33,7 +33,7 @@ Two datasets feed records to the database: the first dataset is a subset from th
 
 Here it's used the [schema on read](https://www.techopedia.com/definition/30153/schema-on-read) strategy, which means there is no need to draw a schema before ingesting data into the database.
 
-The ETL pipeline consists in copying data from S3 buckets, processing it with Spark, and then storing it againd on S3.
+The ETL pipeline consists in copying data from S3 buckets, processing it with Spark, and then storing it again on S3.
 
 Data is stored in five tables: songplays, songs, users, artists, time. Each of the five tables are written to parquet files in a separate analytics directory on S3.
 
