@@ -1,3 +1,11 @@
+## [atualização 03/05/2021]
+
+Com alguns meses de esforço e dedicação concluí o Data Engineering Nanodegree!! 
+
+Apesar de não ter problemas com bancos de dados, antes de começar o curso eu me sentia um tanto inseguro com soluções em nuvem, principalmente por conta dos relatos de cobranças inesperadas($$$) da AWS. Ter o suporte da Udacity foi essencial para hoje perder o medo de usar esse tipo de serviço, sempre com toda cautela, é claro.
+
+O conteúdo do curso é realmente bem extenso, foi um importante desafio na minha carreira e já estou ansioso para o próximo! 
+
 ## [atualização 14/04/2021]
 
 Estudei o material da Udacity quase todos esses dias, apesar de não ter atualizado o documento. Terminei o projeto de Data Lakes com Spark e acredito ter entendido bem os conceitso, só achei que o capítulo como um todo não apresentou um objetivo muito claro. Até foi interessante ver mais sobre programação funcional, Spark e como esse framework pode ajudar com Big Data, porém o projeto não aproveitou quase nada de todo o conteúdo que poderia ter sido explorado. No final o que tinha para ser feito basicamente era extrair dados de um bucket S3, criar tabelas sem um esquema predefinido povoando com os dados extraídos e, por último, salvá-las em arquivos Parquet em outro bucket S3.
